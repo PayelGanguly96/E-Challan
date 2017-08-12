@@ -1,0 +1,67 @@
+				
+
+				***************************
+				  GANM E-CHALLAN SOLUTION
+				   	    FOR
+				   MANGALURU CITY POLICE
+                            	 
+
+				Version: 
+				Unit S.No: 
+				Challan NO:    
+				Date: 
+				Time: 
+				 
+				***************************
+				Vehicle No:
+					
+
+				***************************
+				Vehicle Registered Address:       
+
+
+				***************************
+				Name of the Driver:
+
+				              
+				***************************
+				Driver's DL No:
+
+
+				***************************
+				Offence Type:
+						
+
+				***************************
+				Fine Amount Collected:
+
+
+				***************************
+				Mode of Payment:
+
+				
+				***************************
+				Testing officer ID:
+
+
+				***************************
+				Test location:
+
+					      
+				***************************
+				Location GPS Coordinates:
+
+
+				***************************
+			        Driver's Signature
+
+			
+				***************************
+				Officer's Signature:
+
+
+				***************************
+				***************************	
+				MANGALORE CITY JURISDICTION
+				***************************
+				***************************
